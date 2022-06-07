@@ -33,7 +33,7 @@
 
 <p><img align="left" width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=rajmazumder18110&" alt="rajmazumder18110" /></p>
 
-<p>&nbsp;<img align="center" width="480" src="https://github-readme-stats.vercel.app/api?username=rajmazumder18110&show_icons=true&locale=en" alt="rajmazumder18110" /></p>
+<p>&nbsp;<img align="right" width="480" src="https://github-readme-stats.vercel.app/api?username=rajmazumder18110&show_icons=true&locale=en" alt="rajmazumder18110" /></p>
 
 <br>
 <p><img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajmazumder18110&show_icons=true&locale=en&layout=compact" alt="rajmazumder18110" /></p>

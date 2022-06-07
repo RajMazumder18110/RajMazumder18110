@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **DevOps, Go, DS&Algo**
 
+- 👯 I’m looking to collaborate on [rust-algorithm](https://github.com/alexfertel/rust-algorithms)
+
 - 💬 Ask me about **React, JavaScript, Solidity**
 
 - 📫 How to reach me **rajmazumder27.08.2001@gmail.com**

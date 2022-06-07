@@ -15,10 +15,11 @@
 
 - ⚡ Fun fact **I sleep a lot🙈**
 
-</br>
+<h1><img align="left" width="520" src="https://github-readme-streak-stats.herokuapp.com/?user=rajmazumder18110&" alt="rajmazumder18110" /></h1>
+</br> </br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://dev.to/programmerrajpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="programmerrajpy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajmazumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajmazumder" height="30" width="40" /></a>
 <a href="https://fb.com/mr.rajmazumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.rajmazumder" height="30" width="40" /></a>
@@ -31,7 +32,7 @@
 
 <br>
 
-<p><img align="left" width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=rajmazumder18110&" alt="rajmazumder18110" /></p>
+
 
 <p>&nbsp;<img align="right" width="480" src="https://github-readme-stats.vercel.app/api?username=rajmazumder18110&show_icons=true&locale=en" alt="rajmazumder18110" /></p>
 

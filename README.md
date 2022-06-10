@@ -1,13 +1,13 @@
 ![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <h1 align="center">Hi 👋, I'm Raj Mazumder</h1>
-<h3 align="center">A passionate DevOps engineer from India</h3>
+<h3 align="center">A passionate Ios developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://stormotion.io/blog/content/images/2018/12/developer.gif">
 
 ### About Me 🚀
 
 I am a coder who loves to think solutions out of thin air. I enjoy learning about and working on DevOps technology. I also have a knack for Open Source.
 
-- 🌱 I’m currently learning **DevOps, Go, DS&Algo**
+- 🌱 I’m currently learning **Swift & SwiftUI, Go, DS&Algo**
 
 - 👯 I’m looking to collaborate on [rust-algorithm](https://github.com/alexfertel/rust-algorithms)
 

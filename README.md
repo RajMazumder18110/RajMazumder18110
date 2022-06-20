@@ -7,7 +7,7 @@
 
 I am a coder who loves to think solutions out of thin air. I enjoy learning about and working on DevOps technology. I also have a knack for Open Source.
 
-- 🌱 I’m currently learning **Swift & SwiftUI, Go, DS&Algo**
+- 🌱 I’m currently learning **Swift & SwiftUI, DS&Algo**
 
 - 👯 I’m looking to collaborate on [rust-algorithm](https://github.com/alexfertel/rust-algorithms)
 

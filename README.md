@@ -1,6 +1,6 @@
 ![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <h1 align="center">Hi 👋, I'm Raj Mazumder</h1>
-<h3 align="center">A passionate Ios developer from India</h3>
+<h3 align="center">A passionate Blockchain developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://stormotion.io/blog/content/images/2018/12/developer.gif">
 
 ### About Me 🚀

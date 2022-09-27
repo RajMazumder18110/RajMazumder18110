@@ -5,7 +5,7 @@
 
 ### About Me 🚀
 
-I am a coder who loves to think solutions out of thin air. I enjoy learning about and working on DevOps technology. I also have a knack for Open Source.
+I am a coder who loves to think solutions out of thin air. I enjoy learning about and working on Blockchain technology. I also have a knack for Open Source.
 
 - 🌱 I’m currently learning **Solidity, Ethereum & Blockchain, DS&Algo**
 

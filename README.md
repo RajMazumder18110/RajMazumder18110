@@ -1,4 +1,4 @@
-hi# Hello, I'm Raj Mazumder! 👋 ![](https://komarev.com/ghpvc/?username=RajMazumder18110)
+hi# Hello, I'm Raj Mazumder! 👋
 
 
 I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. I also love traveling, exploring new music, and driving to explore different places.
@@ -11,8 +11,7 @@ I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best 
 
 - Furthering my expertise in DevOps practices and tools
 - Exploring new programming paradigms and languages
-- Master Rust
-- Solve more DSA
+- Master GoLang
 
 ## 📫 Get in touch
 

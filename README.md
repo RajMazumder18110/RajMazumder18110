@@ -1,7 +1,9 @@
 hi# Hello, I'm Raj Mazumder! 👋
 
 
-I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. Learning new things is important to me. I also love traveling, exploring new music, and driving to explore different places.
+ I specialize in building decentralized solutions and have a keen interest in exploring innovative technologies. My focus is on creating efficient, secure, and scalable blockchain applications. I’m always excited to learn and incorporate new tools and techniques into my projects to stay ahead in this rapidly evolving field.
+
+When I’m not coding, I enjoy traveling, discovering new music, and going on road trips to explore different places.
 
 ## 🛠️ Technologies & Tools
 
@@ -9,9 +11,9 @@ I'm a Full-Stack Developer with a passion for DevOps. I always aim for the best 
 
 ## 🌱 Current Learning Goals
 
-- Furthering my expertise in DevOps practices and tools
-- Exploring new programming paradigms and languages
 - Master GoLang
+- Build innovative personal projects
+- Design smooth, event-driven backends for dApps
 
 ## 📫 Get in touch
 
